@@ -1,0 +1,313 @@
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\cuci steam kendaraan\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 2\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 3\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 4\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 5\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 6\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 7\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 8\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 9\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 10\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 11\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 12\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanDataMaster.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanDataMaster.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterBarang.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanDataMaster.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 13 - Copy\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanKeseluruhan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanDataMaster.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanKeseluruhan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 14\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\bin\Debug\AppCuciSteam.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanDataMaster.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanKeseluruhan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 15\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.ResolveComReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\bin\Debug\Interop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterKendaraan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanDataMaster.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLaporanKeseluruhan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormLogin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterAdmin.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMasterPelanggan.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormMenuUtama.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.FormTransaksi.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\AppCuciSteam.vbproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\bin\Debug\Pembayaran Pencucian Kendaraan.exe.config
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\bin\Debug\Pembayaran Pencucian Kendaraan.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\bin\Debug\Pembayaran Pencucian Kendaraan.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\bin\Debug\Pembayaran Pencucian Kendaraan.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\Pembayaran Pencucian Kendaraan.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\Pembayaran Pencucian Kendaraan.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\CUCI STEAM KENDARAAN part 16\AppCuciSteam\AppCuciSteam\obj\Debug\Pembayaran Pencucian Kendaraan.pdb
